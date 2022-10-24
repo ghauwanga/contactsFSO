@@ -1,0 +1,1 @@
+This is a sollution to exercises from Fullstackopen fullstack course
